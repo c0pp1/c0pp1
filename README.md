@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I'm a fifth year student attending MSc Physics of Data @ University of Padova.
-My main interests involve *deep learning* and its application to *HEP problems*, and *high performance computing*, with a focus on *quantum computing*.
+My main interests involve **deep learning** and its application to **HEP problems**, and **high performance computing**, with a focus on **quantum computing**.
 
 <!--
 **c0pp1/c0pp1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
