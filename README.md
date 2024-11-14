@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a fifth year student attending MSc Physics of Data @ University of Padova.
+I'm a PhD student in Quantum Information @ University of Padova.
 My main interests involve **deep learning** and its application to **HEP problems**, and **high performance computing**, with a focus on **quantum computing**.
 
 <!--
