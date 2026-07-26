@@ -1,7 +1,10 @@
 ### Hi there 👋
 
-I'm a PhD student in Quantum Information @ University of Padova.
-My main interests involve **deep learning** and its application to **HEP problems**, and **high performance computing**, with a focus on **quantum computing**.
+I'm a PhD student in Quantum Information @ University of Padova.  
+My main interests involve **deep learning** and **tensor networks**, and their application to different problems in physics, going from high-energy physics to quantum simulations.  
+I'm currently working on **Tensor Network Machine Learning**, studying the interpretability of these models with respect to classical Neural Networks.
+
+While working on these topics, I also have fun optimising and improving [QuantumTEA](https://www.quantumtea.it/).
 
 <!--
 **c0pp1/c0pp1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
